@@ -1,7 +1,7 @@
 # Verilog-Stopwatch
 A stopwatch developed in Verilog for Nexys 3 Spartan-6 FPGA
 
-Functionalities:
+Functionalities:<br/>
 Reset (center button)<br/>
 Pause (right button)<br/>
 Fast-forward minutes<br/>
