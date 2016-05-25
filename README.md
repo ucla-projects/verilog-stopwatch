@@ -2,9 +2,9 @@
 A stopwatch developed in Verilog for Nexys 3 Spartan-6 FPGA
 
 Functionalities:
-Reset (center button)
-Pause (right button)
-Fast-forward minutes
-Fast-forward seconds
-Rewind minutes
+Reset (center button)<br/>
+Pause (right button)<br/>
+Fast-forward minutes<br/>
+Fast-forward seconds<br/>
+Rewind minutes<br/>
 Rewind seconds
